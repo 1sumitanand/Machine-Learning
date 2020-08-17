@@ -1,8 +1,8 @@
 # Machine-Learning Projects
 
 # Linear Regression
-1.House Price Prediction 
-2.Web App Marketing Prediction 
+1. House Price Prediction 
+2. Web App Marketing Prediction 
 
 STEPS INVOLVED 
 * Data Preprocessing
