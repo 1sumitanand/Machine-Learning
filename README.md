@@ -6,10 +6,12 @@ House Price Prediction & Web App Marketing Prediction in python
 * Numpy
 * Seaborn
 
-Data Preprocessing
-Data Split
-Creating Model
-Training Moel
-Predicting from Model
-Benchmarking accuracy
+
+STEPS INVOLVED 
+* Data Preprocessing
+* Data Split
+* Creating Model
+* Training Moel
+* Predicting from Model
+* Benchmarking accuracy
 
