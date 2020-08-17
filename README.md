@@ -1,7 +1,8 @@
 # Machine-Learning Projects
 
 # Linear Regression
-House Price Prediction & Web App Marketing Prediction in python
+1.House Price Prediction 
+2.Web App Marketing Prediction 
 
 STEPS INVOLVED 
 * Data Preprocessing
@@ -14,3 +15,18 @@ STEPS INVOLVED
 
 
 # Logistic Regression
+1. Person Survival Prediction
+2. Ads click Prediction
+
+STEPS INVOLVED 
+*Pre-processing & Analysing of Data
+ Find Missing Data
+ Cleaning Data
+ Converting Categorical Features
+*Creating a Logistic Regression model
+*Training & predicting
+*Evaluation
+ Classification report
+ Confusion Matrix
+ Accuracy Score
+
