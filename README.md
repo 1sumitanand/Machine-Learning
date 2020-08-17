@@ -19,14 +19,16 @@ STEPS INVOLVED
 2. Ads click Prediction
 
 STEPS INVOLVED 
-*Pre-processing & Analysing of Data
- Find Missing Data
- Cleaning Data
- Converting Categorical Features
-*Creating a Logistic Regression model
-*Training & predicting
-*Evaluation
- Classification report
- Confusion Matrix
- Accuracy Score
+* Pre-processing & Analysing of Data
+   * Find Missing Data
+   * Cleaning Data
+   * Converting Categorical Features
+* Data Split
+* Visualize the Data
+* Creating a Logistic Regression model
+* Training & predicting
+* Evaluation
+   * Classification report
+   * Confusion Matrix
+   * Accuracy Score
 
