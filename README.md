@@ -33,7 +33,7 @@ STEPS INVOLVED
    * Accuracy Score
 
 
-# K Nearsest Neighbors 
+# K Nearest Neighbors 
 1.  Illness Prediction (generic code template)
 
 STEPS INVOLVED 
