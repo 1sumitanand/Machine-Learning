@@ -32,3 +32,17 @@ STEPS INVOLVED
    * Confusion Matrix
    * Accuracy Score
 
+
+# K Nearsest Neighbors 
+1.  Illness Prediction (generic code template)
+
+STEPS INVOLVED 
+* Handling Data
+  * Standardize the Variables
+  * Data Split
+* Creating a KNN model
+* Predictions
+* Evaluation
+  * Classification report
+  * Confusion Matrix
+  * Accuracy Score
