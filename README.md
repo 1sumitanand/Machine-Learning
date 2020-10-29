@@ -1,5 +1,6 @@
 # Machine-Learning Projects
 
+![ScreenShot](https://i.ytimg.com/vi/YygGAZDfvdw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCoAcadooIVnNdvKZcW40iCHWLO0g)
 # Linear Regression
 1. House Price Prediction 
 2. Web App Marketing Prediction 
@@ -13,7 +14,7 @@ STEPS INVOLVED
 * Predicting from Model
 * Benchmarking accuracy of Model by various means
 
-
+![ScreenShot](https://i.ytimg.com/an_webp/7gJRXzcTPuM/mqdefault_6s.webp?du=3000&sqp=CLX46fwF&rs=AOn4CLBD5bnsnF6VFpyDhrVv72IPHOPOxA)
 # Logistic Regression
 1. Person Survival Prediction
 2. Ads click Prediction
@@ -32,7 +33,7 @@ STEPS INVOLVED
    * Confusion Matrix
    * Accuracy Score
 
-
+![ScreenShot](https://i.ytimg.com/vi/2j4Txd6sNrU/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBM5BZeckdfP2G5JuukHuBqreUqOw)
 # K Nearest Neighbors 
 1.  Illness Prediction (generic code template)
 
